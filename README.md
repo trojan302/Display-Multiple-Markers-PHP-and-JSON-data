@@ -7,3 +7,9 @@
  *Youtube     : Betta Dev* 
 
 Please Subscribe my youtube channel and fork me on Github ^_^ thanks!
+
+## ScreenShot Maps ##
+
+----------
+
+![Maps Screenshot](https://github.com/trojan302/Display-Multiple-Markers-PHP-and-JSON-data/blob/master/screenshot.png)
